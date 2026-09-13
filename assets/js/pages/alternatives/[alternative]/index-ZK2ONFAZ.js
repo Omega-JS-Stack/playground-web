@@ -1,0 +1,1 @@
+import{b as r}from"../../../chunks/chunk-Z5C74B67.js";import"../../../chunks/chunk-JVMVHRPR.js";import{f as o}from"../../../chunks/chunk-37YMCHKN.js";import"../../../chunks/chunk-QTC5UQBK.js";import"../../../chunks/chunk-M3IEJ6WI.js";import"../../../chunks/chunk-EPXOE4VI.js";var m=()=>new Promise(async function(t){return await o.dom().ready(),t()});r(m);

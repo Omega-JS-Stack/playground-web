@@ -1,0 +1,15 @@
+/* TEAM */
+Website: OMEGA Playground
+Site: https://playground.omegajs.dev
+Twitter: itwcreativeworks
+
+/* THANKS */
+Framework: OMEGA (@omega.js/web)
+Built with: Eleventy, Bootstrap, Font Awesome
+Hosting: Various
+
+/* SITE */
+Last update: 2026/09/13
+Standards: HTML5, CSS3, JavaScript ES6+
+Components: Eleventy, LiquidJS, SCSS, esbuild
+IDE: Visual Studio Code

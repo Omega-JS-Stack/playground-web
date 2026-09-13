@@ -1,0 +1,1 @@
+import{c as i,f as t}from"./chunk-37YMCHKN.js";import{e as n}from"./chunk-EPXOE4VI.js";var e=n(i());function r(){return t.config?.payment||{}}function d(){return r().providers||{}}function c(){return r().products||[]}function p(o){return c().find(u=>u.id===o)||null}export{e as a,r as b,d as c,c as d,p as e};

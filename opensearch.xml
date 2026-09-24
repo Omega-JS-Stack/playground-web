@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>OMEGA Playground</ShortName>
+  <Description>Search OMEGA Playground</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://playground.omegajs.dev/assets/images/favicon/favicon.ico?cb=1790242959240</Image>
+  <Image width="32" height="32" type="image/png">https://playground.omegajs.dev/assets/images/favicon/favicon-32x32.png?cb=1790242959240</Image>
+  <Image width="64" height="64" type="image/png">https://playground.omegajs.dev/assets/images/favicon/favicon-32x32.png?cb=1790242959240</Image>
+  <Url type="text/html" template="https://playground.omegajs.dev/blog?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://playground.omegajs.dev/opensearch.xml"/>
+</OpenSearchDescription>

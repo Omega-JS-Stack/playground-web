@@ -1,0 +1,12 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "OMEGA Playground Blog",
+  "home_page_url": "https://playground.omegajs.dev/blog",
+  "feed_url": "https://playground.omegajs.dev/feeds/posts.json",
+  "description": "The live demo surface for the OMEGA stack: every framework, every integration, running for real on data nobody has to keep.",
+  "generator": "OMEGA (@omega.js/web)",
+  "language": "en",
+  "favicon": "https://playground.omegajs.dev/assets/images/favicon/favicon-32x32.png",
+  "items": [
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "apiKey": "AIzaSyDyiP9jWao8bjZML4uQr2gk0MdOEL_Umc8",
+  "appId": "1:644778453321:web:0d4f0f8774385a21671298",
+  "authDomain": "omegajs-playground.firebaseapp.com",
+  "databaseURL": "https://omegajs-playground-default-rtdb.firebaseio.com",
+  "measurementId": "G-0SGDR7ZPJ9",
+  "messagingSenderId": "644778453321",
+  "projectId": "omegajs-playground",
+  "storageBucket": "omegajs-playground.firebasestorage.app"
+}

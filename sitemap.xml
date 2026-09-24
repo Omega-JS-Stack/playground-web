@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+  >
+  <url>
+    <loc>https://playground.omegajs.dev</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/about</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/about"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/about"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/alternatives</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/alternatives/handrolled</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/handrolled"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/handrolled"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/handrolled"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/handrolled"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/alternatives/monolith-cloud</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/monolith-cloud"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/monolith-cloud"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/monolith-cloud"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/monolith-cloud"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/alternatives/patchwork</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/patchwork"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/patchwork"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/patchwork"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/patchwork"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/alternatives/scaffold-io</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/scaffold-io"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/scaffold-io"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/scaffold-io"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/scaffold-io"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/app</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/app"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/app"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/blog</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/contact</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/contact"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/cookies</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/download</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/download"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/about</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/about"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/about"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/alternatives</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/alternatives/handrolled</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/handrolled"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/handrolled"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/handrolled"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/handrolled"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/alternatives/monolith-cloud</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/monolith-cloud"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/monolith-cloud"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/monolith-cloud"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/monolith-cloud"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/alternatives/patchwork</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/patchwork"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/patchwork"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/patchwork"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/patchwork"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/alternatives/scaffold-io</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/scaffold-io"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/scaffold-io"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/scaffold-io"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/scaffold-io"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/app</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/app"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/app"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/contact</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/contact"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/download</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/download"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/extension</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/extension"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/extension"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/extension"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/extension"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/feedback</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/feedback"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/feedback"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/feedback"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/feedback"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/payment/confirmation</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/payment/confirmation"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/pricing</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/pricing"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/pricing"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/es/status</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/status"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/status"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/status"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/status"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/extension</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/extension"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/extension"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/extension"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/extension"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/about</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/about"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/about"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/alternatives</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/alternatives/handrolled</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/handrolled"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/handrolled"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/handrolled"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/handrolled"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/alternatives/monolith-cloud</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/monolith-cloud"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/monolith-cloud"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/monolith-cloud"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/monolith-cloud"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/alternatives/patchwork</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/patchwork"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/patchwork"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/patchwork"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/patchwork"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/alternatives/scaffold-io</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/alternatives/scaffold-io"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/alternatives/scaffold-io"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/alternatives/scaffold-io"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/alternatives/scaffold-io"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/app</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/app"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/app"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/app"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/contact</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/contact"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/download</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/download"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/download"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/download"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/download"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/extension</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/extension"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/extension"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/extension"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/extension"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/feedback</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/feedback"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/feedback"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/feedback"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/feedback"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/payment/confirmation</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/payment/confirmation"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/pricing</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/pricing"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/pricing"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/fa/status</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/status"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/status"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/status"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/status"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/feedback</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/feedback"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/feedback"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/feedback"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/feedback"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/payment/confirmation</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/payment/confirmation"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/payment/confirmation"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/pricing</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/pricing"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/pricing"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/privacy</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/status</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://playground.omegajs.dev/status"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://playground.omegajs.dev/status"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://playground.omegajs.dev/es/status"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://playground.omegajs.dev/fa/status"/>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/team</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/terms</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://playground.omegajs.dev/updates</loc>
+    <lastmod>2026-09-24T09:42:45.021Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  >
+  <channel>
+    <atom:link
+      href="https://playground.omegajs.dev/feeds/posts.xml"
+      rel="self"
+      type="application/rss+xml"
+    />
+    <title><![CDATA[ OMEGA Playground Blog ]]></title>
+    <description><![CDATA[ The live demo surface for the OMEGA stack: every framework, every integration, running for real on data nobody has to keep. ]]></description>
+    <link>https://playground.omegajs.dev/blog</link>
+    <generator>OMEGA (@omega.js/web)</generator>
+    <lastBuildDate>Thu, 24 Sep 2026 09:42:45 GMT</lastBuildDate>
+    <language><![CDATA[ en ]]></language>
+  </channel>
+</rss>

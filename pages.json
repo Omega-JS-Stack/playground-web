@@ -1,0 +1,170 @@
+[
+  {
+    "url": "https://playground.omegajs.dev/",
+    "title": "OMEGA Playground: see what OMEGA can do",
+    "desc": "The live demo surface for the OMEGA stack: real builds, real sign-ins, real checkouts, on a brand nobody has to keep.",
+    "breadcrumb": "Home",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/about",
+    "title": "About - OMEGA Playground",
+    "desc": "Discover OMEGA Playground and learn what we're all about",
+    "breadcrumb": "About",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/alternatives",
+    "title": "Alternatives - OMEGA Playground",
+    "desc": "Compare OMEGA Playground to popular alternatives. See why thousands of users choose OMEGA Playground over the competition.",
+    "breadcrumb": "Alternatives",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/alternatives/handrolled",
+    "title": "",
+    "desc": "",
+    "breadcrumb": "",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/alternatives/monolith-cloud",
+    "title": "",
+    "desc": "",
+    "breadcrumb": "",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/alternatives/patchwork",
+    "title": "",
+    "desc": "",
+    "breadcrumb": "",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/alternatives/scaffold-io",
+    "title": "",
+    "desc": "",
+    "breadcrumb": "",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/app",
+    "title": "App Launcher - OMEGA Playground",
+    "desc": "OMEGA Playground app launcher",
+    "breadcrumb": "Launcher",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/blog",
+    "title": "Blog - OMEGA Playground",
+    "desc": "Stay up to date with the latest OMEGA Playground news and best practices.",
+    "breadcrumb": "Blog",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/contact",
+    "title": "Contact - OMEGA Playground",
+    "desc": "Contact OMEGA Playground if you need assistance with anything.",
+    "breadcrumb": "Contact",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/cookies",
+    "title": "Cookie Policy - OMEGA Playground",
+    "desc": "This cookie policy has been compiled to better serve those who are concerned with how their personal information is being used online.",
+    "breadcrumb": "Cookie Policy",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/download",
+    "title": "Download - OMEGA Playground",
+    "desc": "OMEGA Playground is free to use on Windows, Mac & Linux. Get started for free today!",
+    "breadcrumb": "Download",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/extension",
+    "title": "OMEGA Playground browser extension",
+    "desc": "The OMEGA Playground browser extension is free to use on Chrome, Firefox, Edge & Opera. Get started for free today!",
+    "breadcrumb": "Extension",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/feedback",
+    "title": "Feedback - OMEGA Playground",
+    "desc": "Share your feedback and help us improve OMEGA Playground.",
+    "breadcrumb": "Feedback",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/payment/confirmation",
+    "title": "Confirmation - OMEGA Playground",
+    "desc": "Your order has been confirmed on OMEGA Playground.",
+    "breadcrumb": "Confirmation",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/pricing",
+    "title": "Pricing - OMEGA Playground",
+    "desc": "OMEGA Playground Premium plans grant you access to more features and support. Get started for free today!",
+    "breadcrumb": "Pricing",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/privacy",
+    "title": "Privacy Policy - OMEGA Playground",
+    "desc": "This privacy policy has been compiled to better serve those who are concerned with how their personal information is being used online.",
+    "breadcrumb": "Privacy Policy",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/status",
+    "title": "System Status - OMEGA Playground",
+    "desc": "Check the current status and uptime of OMEGA Playground services. View real-time system health and incident reports.",
+    "breadcrumb": "Status",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/team",
+    "title": "Team - OMEGA Playground",
+    "desc": "Meet the team behind OMEGA Playground.",
+    "breadcrumb": "Team",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/terms",
+    "title": "Terms Of Service - OMEGA Playground",
+    "desc": "By accessing and using our products and services, you agree to comply with the Terms of Use listed here.",
+    "breadcrumb": "Terms of Service",
+    "category": "",
+    "type": ""
+  },
+  {
+    "url": "https://playground.omegajs.dev/updates",
+    "title": "Updates - OMEGA Playground",
+    "desc": "View release notes and version history for OMEGA Playground. Stay up to date with the latest features and improvements.",
+    "breadcrumb": "Updates",
+    "category": "",
+    "type": ""
+  }
+]
